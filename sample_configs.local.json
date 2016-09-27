@@ -1,0 +1,12 @@
+{
+  "bam_input": {
+        "class": "File",
+        "format": "http://edamontology.org/format_2572",
+        "path": "/tmp/input.bam"
+    },
+    "picardreorder_result": {
+        "class": "File",
+        "format": "http://edamontology.org/format_2572",
+        "path": "/tmp/output.bam"
+    }
+}
